@@ -5,6 +5,7 @@
     grid-template-columns: repeat(3, 1fr); 
     grid-gap: 30px; 
     max-width: 1000px;
+    max-height:1000px;
     margin: 0 auto;
     padding: 100px;
 }
@@ -13,6 +14,7 @@
     background-color: hsl(0, 93%, 56%);
     padding: 20px;
     text-align: center;
+    height:200px
   
 }
 
